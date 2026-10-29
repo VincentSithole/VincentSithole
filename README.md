@@ -65,3 +65,9 @@ I believe the best way to master IT is to break things, fix them, and document t
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincentsithole&theme=radical" alt="vincentsithole" />
 </p>
+
+### 🏅 Certifications
+
+| Microsoft Azure Fundamentals | AWS Cloud Practitioner | AWS re/Start Graduate |
+| :---: | :---: | :---: |
+| <a href="https://learn.microsoft.com/api/credentials/share/en-us/phakamilesithole-8809/7BFA2129D89159F6?sharingId=B42CC6BC055380B4" target="_blank"><img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Azure Fundamentals" width="120" /></a> | <a href="https://www.credly.com/badges/292df950-bc8c-4c5b-a0a4-8bb81a0dfcd8/public_url" target="_blank"><img src="aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="120" /></a> | <a href="https://www.credly.com/badges/292df950-bc8c-4c5b-a0a4-8bb81a0dfcd8/public_url" target="_blank"><img src="aws-re-start-graduate.png" alt="AWS re/Start Graduate" width="120" /></a> |
